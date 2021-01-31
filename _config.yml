@@ -17,8 +17,8 @@ title: 3D Printing and Design
 tagline: A Jekyll template for course websites
 description: An introduction to 3D modeling with Autodesk Fusion 360 and 3D printing technology.
 author: Ray Altenberg
-baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
-url: 'https://kevinl.info' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/3DPrinting' # the subpath of your site, e.g. /blog
+url: 'https://rayaltenberg.com' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
