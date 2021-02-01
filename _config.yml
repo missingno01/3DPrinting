@@ -17,8 +17,8 @@ title: 3D Printing and Design
 tagline: Berkeley 3D Printing DeCal
 description: An introduction to 3D printing and modeling with Autodesk Fusion 360.
 author: Ray Altenberg
-baseurl: '/3DPrinting' # the subpath of your site, e.g. /blog
-url: 'https://rayaltenberg.com' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/' # the subpath of your site, e.g. /blog
+url: 'https://berkeley3dmc.org' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 imagesurl: "/3DPrinting/img/"
