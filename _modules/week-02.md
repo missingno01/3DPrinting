@@ -3,7 +3,7 @@ title: Working with Fusion 360
 ---
 
 Feb 8
-: [Basic Part Modeling (Keychains)](#)
+: [Basic Part Modeling (Keychains)](#) :
 
 Feb 10
 : [Basic Part Modeling Continued (Chair)](#)
