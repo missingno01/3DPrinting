@@ -31,8 +31,8 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Ray Altenberg:
-    - 'https://rayaltenberg.com'
+  3DMC Facebook:
+    - 'https://www.facebook.com/3dmodelingatberkeley/'
   Join the 3DMC Slack:
     - 'https://join.slack.com/t/berkeley3dmc/shared_invite/zt-76aufgkl-xbXqurcIKZig~7eoZW4L0Q'
 footer_content:
