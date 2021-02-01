@@ -43,6 +43,7 @@ collections:
   modules:
   schedules:
   announcements:
+  imageDisplays:
 # Default layouts for each collection type
 defaults:
   - scope:
