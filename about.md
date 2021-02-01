@@ -24,9 +24,9 @@ This course will teach students the basics of Autodesk Fusion 360. The class is 
 
 Classes will be held twice a week remotely via Zoom, with one lecture and one lab for a total of 3 hours a week.
 
-Lecture Days: Autodesk Fusion 360 will be taught through step-by-step tutorials and instruction that students will follow along with on their own computers. 
+**Lecture Days**: Autodesk Fusion 360 will be taught through step-by-step tutorials and instruction that students will follow along with on their own computers. 
 
-Lab Days: The goal of this aspect of the course is to have students further develop their 3D modeling skills by applying them in various creative and practical aspects.  Students will apply what they have learned during lecture to model creative designs to a chosen prompt announced at the beginning of class. We would also like to encourage students to explore 3D modeling by utilizing and developing open-source plugins for the Fusion 360 software. Some designated lab days will be used to introduce interested students to the Autodesk Fusion 360 API, while other students will have an alternative task.  
+**Lab Days**: The goal of this aspect of the course is to have students further develop their 3D modeling skills by applying them in various creative and practical aspects.  Students will apply what they have learned during lecture to model creative designs to a chosen prompt announced at the beginning of class. We would also like to encourage students to explore 3D modeling by utilizing and developing open-source plugins for the Fusion 360 software. Some designated lab days will be used to introduce interested students to the Autodesk Fusion 360 API, while other students will have an alternative task.  
 
 ## Grading
 
@@ -42,7 +42,7 @@ Student performance will be evaluated through 2-3 minor projects, class particip
 
 ## Required Materials
 
--Computer capable of running Autodesk Fusion 360
--Computer mouse
--Autodesk Fusion 360 (free download: www.autodesk.com/design-now)
--Ultimaker Cura (free download: ultimaker.com/en/products/ultimaker-cura-software)
+- Computer capable of running Autodesk Fusion 360
+- Computer mouse
+- Autodesk Fusion 360 (free download: www.autodesk.com/design-now)
+- Ultimaker Cura (free download: ultimaker.com/en/products/ultimaker-cura-software)
