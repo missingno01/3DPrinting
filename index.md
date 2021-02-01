@@ -25,3 +25,7 @@ This course will teach students the basics of Autodesk Fusion 360. The class is 
 {% if site.imageDisplays %}
 {{ site.imageDisplays.last }}
 {% endif %}
+{% if site.imageDisplays %}
+{{ site.imageDisplays.last }}
+[ImageDisplays](imageDisplays.md){: .btn .btn-outline .fs-3 }
+{% endif %}
