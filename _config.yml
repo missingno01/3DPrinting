@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 3D Printing and Design
-tagline: A Jekyll template for course websites
-description: An introduction to 3D modeling with Autodesk Fusion 360 and 3D printing technology.
+tagline: Berkeley 3D Printing DeCal
+description: An introduction to 3D printing and modeling with Autodesk Fusion 360.
 author: Ray Altenberg
 baseurl: '/3DPrinting' # the subpath of your site, e.g. /blog
 url: 'https://rayaltenberg.com' # the base hostname & protocol for your site, e.g. http://example.com
@@ -66,6 +66,11 @@ defaults:
       type: announcements
     values:
       layout: announcement
+  - scope:
+      path: ''
+      type: imageDisplays
+    values:
+      layout: imageDisplay
 
 compress_html:
   clippings: all
