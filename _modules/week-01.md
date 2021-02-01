@@ -2,8 +2,8 @@
 title: Introduction to Java
 ---
 
-Sep 28
-: [Java & Git](#)
+Feb 2
+: [Java & Git](rayaltenberg.com)
   : [1.1](#)
 
 Sep 29
