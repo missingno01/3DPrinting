@@ -20,6 +20,7 @@ seo:
 ## Zoom Link for Lectures
 
 [https://berkeley.zoom.us/j/94895703116](https://berkeley.zoom.us/j/94895703116)
+
 Lectures will be held on Mondays and Wednesdays from 5:00 pm to 6:30 pm PST.
 
 ## The Course
