@@ -3,7 +3,7 @@ title: Working with Fusion 360
 ---
 
 Feb 8
-: [**Basic Part Modeling (Keychains)**](#)
+: [**Basic Part Modeling (Keychains)**](https://youtu.be/mzZj7wue4l4)
  : [**Submission Form**](https://forms.gle/2vnwh1drkZKrXgAb6)
 
 Feb 10
