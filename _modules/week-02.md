@@ -7,7 +7,8 @@ Feb 8
   : [**Submission Form**](https://forms.gle/2vnwh1drkZKrXgAb6)
 
 Feb 10
-: [**Basic Part Modeling Continued (Chair)**](#)
+: [**Basic Part Modeling Continued (Chair)**](https://youtu.be/pEo0I1Ui3wg)
+  : [**Submission Form**](https://forms.gle/f3PouRjjoJbCiGMh8)
 
 Feb 15
 : **No Class (Holiday)**
