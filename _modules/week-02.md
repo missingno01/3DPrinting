@@ -14,5 +14,5 @@ Feb 15
 : **No Class (Holiday)**
   
 Feb 17
-: [**Basic Part Modeling Continued (Lamp)**](#)
+: [**Basic Part Modeling Continued (Lamp)**](https://youtu.be/9itqjF5Ly9Y)
 : [**Submission Form**](https://forms.gle/Zuc6TyNiyQwXQUaL9)
