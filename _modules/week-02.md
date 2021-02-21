@@ -15,4 +15,10 @@ Feb 15
   
 Feb 17
 : [**Basic Part Modeling Continued (Lamp)**](https://youtu.be/9itqjF5Ly9Y)
-: [**Submission Form**](https://forms.gle/Zuc6TyNiyQwXQUaL9)
+  : [**Submission Form**](https://forms.gle/Zuc6TyNiyQwXQUaL9)
+  
+Feb 22
+: **Advanced Part Modeling (Phone Case)**
+
+Feb 24
+: **Advanced Part Modeling Continued**
