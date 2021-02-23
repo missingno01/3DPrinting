@@ -18,7 +18,7 @@ Feb 17
   : [**Submission Form**](https://forms.gle/Zuc6TyNiyQwXQUaL9)
   
 Feb 22
-: **Advanced Part Modeling (Phone Case)**
+: [**Advanced Part Modeling (Phone Case)**](https://youtu.be/TnHcPZC1MBI)
 
 Feb 24
 : **Advanced Part Modeling Continued**
