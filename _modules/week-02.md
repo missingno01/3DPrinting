@@ -21,4 +21,4 @@ Feb 22
 : [**Advanced Part Modeling (Phone Case)**](https://youtu.be/TnHcPZC1MBI)
 
 Feb 24
-: **Advanced Part Modeling Continued**
+: [**Advanced Part Modeling Continued**](https://youtu.be/1yXTHEK9Y20)
