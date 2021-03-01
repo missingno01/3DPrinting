@@ -22,3 +22,10 @@ Feb 22
 
 Feb 24
 : [**Advanced Part Modeling Continued**](https://youtu.be/1yXTHEK9Y20)
+  : [**Submission Form**](https://forms.gle/U8Ar32CXaCWKeXtG8)
+
+Mar 1
+: **Design for Manufacturing**
+
+Mar 3
+: **Appearance & Rendering**
