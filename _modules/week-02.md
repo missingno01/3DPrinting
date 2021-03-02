@@ -25,7 +25,7 @@ Feb 24
   : [**Submission Form**](https://forms.gle/U8Ar32CXaCWKeXtG8)
 
 Mar 1
-: **Design for Manufacturing**
+: [**Design for Manufacturing**](https://youtu.be/WSCBP2vM6aA)
 
 Mar 3
 : **Appearance & Rendering**
