@@ -28,4 +28,5 @@ Mar 1
 : [**Design for Manufacturing**](https://youtu.be/WSCBP2vM6aA)
 
 Mar 3
-: **Appearance & Rendering**
+: [**Appearance & Rendering**](https://youtu.be/fagPpSvEmBE)
+  : [**Project 1**](https://docs.google.com/document/d/1BOq6kQ69LxrLCs8owJt43qj1wUVFddW7C1RethPRXbg/edit?usp=sharing)
