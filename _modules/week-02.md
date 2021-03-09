@@ -31,3 +31,6 @@ Mar 3
 : [**Appearance & Rendering**](https://youtu.be/fagPpSvEmBE)
 : [**Submission Form**](https://forms.gle/GxFQ1xknwJjnr2rA7)
   : [**Project 1**](https://docs.google.com/document/d/1BOq6kQ69LxrLCs8owJt43qj1wUVFddW7C1RethPRXbg/edit?usp=sharing)
+  
+Mar 8
+: **Project Work Day/Office Hours (No Recording)**
