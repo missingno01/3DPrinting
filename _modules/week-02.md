@@ -39,4 +39,4 @@ Mar 10
 : [**Slicing Software**](https://youtu.be/Jy6xGf8BhNo)
 
 Mar 15
-: **3D Printer Operation**
+: [**3D Printer Operation**](https://youtu.be/BGQtV0WbI0c)
