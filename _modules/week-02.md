@@ -30,13 +30,23 @@ Mar 1
 Mar 3
 : [**Appearance & Rendering**](https://youtu.be/fagPpSvEmBE)
   : [**Submission Form**](https://forms.gle/GxFQ1xknwJjnr2rA7)
-  : [**Project 1**](https://docs.google.com/document/d/1BOq6kQ69LxrLCs8owJt43qj1wUVFddW7C1RethPRXbg/edit?usp=sharing)
   
 Mar 8
 : **Project Work Day/Office Hours (No Recording)**
+  : [**Project 1**](https://docs.google.com/document/d/1BOq6kQ69LxrLCs8owJt43qj1wUVFddW7C1RethPRXbg/edit?usp=sharing)
 
 Mar 10
 : [**Slicing Software**](https://youtu.be/Jy6xGf8BhNo)
 
 Mar 15
 : [**3D Printer Operation**](https://youtu.be/BGQtV0WbI0c)
+
+Mar 17
+: [**Assemblies**](https://youtu.be/978Xc85iDLs)
+  : [**Submission Form**](https://forms.gle/Wppa1FriWkhAXinG8)
+
+Mar 22
+: **No Class (Spring Break)**
+
+Mar 24
+: **No Class (Spring Break)**
