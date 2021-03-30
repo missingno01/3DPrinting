@@ -50,3 +50,14 @@ Mar 22
 
 Mar 24
 : **No Class (Spring Break)**
+
+Mar 29
+: [**Octopus Part 1**](#)
+
+Mar 31
+: [**Octopus Part 2**](#)
+  : [**Submission Form**](#)
+
+Apr 5
+: [**TBD**](#)
+  : [**Project 2**](#)
