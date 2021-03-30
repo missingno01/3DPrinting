@@ -52,7 +52,7 @@ Mar 24
 : **No Class (Spring Break)**
 
 Mar 29
-: [**Octopus Part 1**](#)
+: [**Octopus Part 1**](https://youtu.be/VRcNd-Yg6oQ)
 
 Mar 31
 : [**Octopus Part 2**](#)
