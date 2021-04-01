@@ -56,8 +56,8 @@ Mar 29
 
 Mar 31
 : [**Octopus Part 2**](#)
-  : [**Submission Form**](#)
+  : [**Submission Form**](https://forms.gle/mQPFferkS3PY4Whr8)
 
 Apr 5
 : [**TBD**](#)
-  : [**Project 2**](#)
+  : [**Project 2**](https://docs.google.com/document/d/1JrJOcj6uTssgFebZpGgKTHarqvrpnvK77kLIlCUa9_o/edit?usp=sharing)
