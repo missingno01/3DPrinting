@@ -55,7 +55,7 @@ Mar 29
 : [**Octopus Part 1**](https://youtu.be/VRcNd-Yg6oQ)
 
 Mar 31
-: [**Octopus Part 2**](#)
+: [**Octopus Part 2**](https://youtu.be/U5i69HzKJG8)
   : [**Submission Form**](https://forms.gle/mQPFferkS3PY4Whr8)
 
 Apr 5
