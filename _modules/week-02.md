@@ -59,5 +59,8 @@ Mar 31
   : [**Submission Form**](https://forms.gle/mQPFferkS3PY4Whr8)
 
 Apr 5
-: [**TBD**](#)
+: **Project Work Day/Office Hours (No Recording)**
   : [**Project 2**](https://docs.google.com/document/d/1JrJOcj6uTssgFebZpGgKTHarqvrpnvK77kLIlCUa9_o/edit?usp=sharing)
+
+Apr 7
+: **Engineering Drawings**
