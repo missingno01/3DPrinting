@@ -64,3 +64,4 @@ Apr 5
 
 Apr 7
 : **Engineering Drawings**
+  : [**Reference Sheet**](https://gyazo.com/6f8d37e044144d721b6ca0f337f95489)
