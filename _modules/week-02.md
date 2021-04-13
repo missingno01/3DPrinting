@@ -67,3 +67,9 @@ Apr 7
   : [**Reference Sheet**](https://gyazo.com/6f8d37e044144d721b6ca0f337f95489)
 
   : [**Submission Form**](https://forms.gle/4CRjGUbeeC1kE9bo7)
+
+Apr 12
+: [**Other Fusion Workspaces**](https://youtu.be/W5Iib2goU9U)
+
+Apr 14
+: **Beyond Fusion**
