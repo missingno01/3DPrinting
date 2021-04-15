@@ -72,8 +72,8 @@ Apr 12
 : [**Other Fusion Workspaces**](https://youtu.be/W5Iib2goU9U)
 
 Apr 14
-: **Generative Design**
-  : **Submission Form**
+: [**Generative Design**](https://youtu.be/QUkUyMx2c8M)
+  : [**Submission Form**](https://forms.gle/FZts1CReT1HnskDp9)
   
 Apr 19
 : **Beyond Fusion**
