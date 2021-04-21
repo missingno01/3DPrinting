@@ -76,4 +76,9 @@ Apr 14
   : [**Submission Form**](https://forms.gle/FZts1CReT1HnskDp9)
   
 Apr 19
-: **Beyond Fusion**
+: [**Beyond Fusion**](https://youtu.be/J1glWzDl26k)
+  : [**Teaching Interest Form**](https://forms.gle/ts8JkNr6X2jSK5tL8)
+  
+Apr 21
+: **Project Work Day/Office Hours (No Recording)**
+  : [**Final Project**](https://docs.google.com/document/d/1AYjw_YRiSr2h2N-kAYsKDY-tk53Afs6xTqI9FVzfklY/edit?usp=sharing)
