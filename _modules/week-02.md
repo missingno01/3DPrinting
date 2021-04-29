@@ -82,3 +82,9 @@ Apr 19
 Apr 21
 : **Project Work Day/Office Hours (No Recording)**
   : [**Final Project**](https://docs.google.com/document/d/1AYjw_YRiSr2h2N-kAYsKDY-tk53Afs6xTqI9FVzfklY/edit?usp=sharing)
+  
+Apr 26
+: **Project Work Day/Office Hours (No Recording)**
+
+Apr 28
+: [**Conclusion**](https://youtu.be/kh9EOwp5ANQ)
