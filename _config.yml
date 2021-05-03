@@ -44,6 +44,7 @@ collections:
   schedules:
   announcements:
   imageDisplays:
+  sp21showcaseDisplays:
 # Default layouts for each collection type
 defaults:
   - scope:
@@ -72,6 +73,11 @@ defaults:
       type: imageDisplays
     values:
       layout: imageDisplay
+  - scope:
+      path: ''
+      type: sp21showcaseDisplays
+    values:
+      layout: sp21showcaseDisplay
 
 compress_html:
   clippings: all
