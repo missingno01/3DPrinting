@@ -10,10 +10,8 @@ description: A showcase of final projects for the Spring 2021 semester.
 
 (describe class here)
 
-## Image Gallery
+## Final Project Image Gallery
 
-THESE ARE NOT THE CORRECT IMAGES RIGHT NOW. WILL FIX SOON.
-
-{% if site.imageDisplays %}
-{{ site.imageDisplays.last }}
+{% if site.sp21showcaseDisplays %}
+{{ site.sp21showcaseDisplays.last }}
 {% endif %}
