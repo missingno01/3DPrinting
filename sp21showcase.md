@@ -12,6 +12,6 @@ This DeCal teaches students about 3D printers and their operation as well as 3D 
 
 ## Final Project Image Gallery
 
-{% if site.sp21showcaseDisplays %}
-{{ site.sp21showcaseDisplays.last }}
+{% if site.imageDisplays %}
+{{ site.imageDisplays.last }}
 {% endif %}
